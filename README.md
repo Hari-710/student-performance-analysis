@@ -75,17 +75,3 @@ To understand how different socio-academic factors affect student performance an
 
 3. Run the app:
    streamlit run "path where you Dashboard_streamlit.py file is located"
-
-## 📸 Sample Screenshots
-
-### 🔹 Filtered Data Preview
-
-![Filtered View](output/screenshots/dashboard_filter_preview.png)
-
-### 🔹 Data Insights Charts
-
-![Charts](output/screenshots/dashboard_data_insights_charts.png)
-
-### 🔹 ML Prediction Form
-
-![Prediction](output/screenshots/dashboard_prediction_result.png)
